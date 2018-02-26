@@ -1,0 +1,701 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "a_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[18]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[19]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[20]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[21]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[22]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[23]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[24]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[25]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[26]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[27]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[28]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[29]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[30]",
+					"strict" : false
+				},
+				{
+					"name" : "a_export[31]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[18]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[19]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[20]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[21]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[22]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[23]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[24]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[25]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[26]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[27]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[28]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[29]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[30]",
+					"strict" : false
+				},
+				{
+					"name" : "b_export[31]",
+					"strict" : false
+				},
+				{
+					"name" : "botao_export",
+					"strict" : false
+				},
+				{
+					"name" : "uart_txd",
+					"strict" : false
+				},
+				{
+					"name" : "clk_clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset_reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "dips_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[24]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[24]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[24]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[28]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[28]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[28]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[23]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[23]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[23]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[31]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[31]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[31]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[27]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[27]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[27]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[26]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[26]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[26]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[25]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[25]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[25]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[22]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[22]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[22]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[30]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[30]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[30]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[21]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[21]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[21]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[29]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[29]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[29]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[20]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[20]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[20]",
+					"strict" : false
+				},
+				{
+					"name" : "dips_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[19]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[19]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[19]",
+					"strict" : false
+				},
+				{
+					"name" : "dips_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[18]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[18]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[18]",
+					"strict" : false
+				},
+				{
+					"name" : "dips_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "quociente_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "produto_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "resto_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "uart_rxd",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
